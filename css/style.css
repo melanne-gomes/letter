@@ -96,12 +96,12 @@ body {
 /* Card body styling */
 .card-body {
     font-family: "Shantell Sans", serif;
-    padding: 14px;
+    padding: 4px;
 }
 
 .card-body p {
-    font-size: 10px;
-    font-weight: 300;
+    font-size: 12px;
+    font-weight: 450;
 }
 .card-body p+p {
     margin-top: 10px;
