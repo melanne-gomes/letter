@@ -101,7 +101,7 @@ body {
 
 .card-body p {
     font-size: 12px;
-    font-weight: 450;
+    font-weight: 450%;
 }
 .card-body p+p {
     margin-top: 10px;
