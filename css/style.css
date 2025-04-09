@@ -257,3 +257,26 @@ body {
     opacity: 1;
     transition: opacity 2s ease;
 }
+
+@media(max-width: 780px){
+    .card{
+        width: 250px;
+       height: 302px;
+    }
+
+
+    .card-body {
+        margin-top: 0px;
+    }
+
+    .card-body p {
+       margin-top: 0px;
+        font-size: 15px;
+        font-weight: 500;
+    }
+
+    .card-body p+p {
+        margin-top: 0px;
+        
+    }
+}
